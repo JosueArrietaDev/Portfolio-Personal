@@ -30,11 +30,8 @@ Este proyecto fue construido con las siguientes tecnologías:
    git clone https://github.com/JosueArrietaDev/Portfolio-Personal.git
 
 
-<!--
-  Aclaración importante: este proyecto se trata de un ejemplo y la información 
+  - Aclaración importante: este proyecto se trata de un ejemplo y la información 
   no debe tomarse como verídica.
   
-  Dirigido a quien clone el repositorio: Puedes ajustar el texto según lo que
+  - Dirigido a quien clone el repositorio: Puedes ajustar el texto según lo que
   necesites exactamente.
--->
-
